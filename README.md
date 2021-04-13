@@ -8,3 +8,4 @@ Link da Aplicação no Figma: [Acessar aqui.](https://www.figma.com/file/YM4JFm0
 
 ![Pewview da Homepage da Aplicação](public/preview-homepage.png)# ig-news
 # ig-news
+# ig-news
